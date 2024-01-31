@@ -13,7 +13,7 @@ Hello! I'm Marcin Falkowski, an experienced React Native mobile app developer wi
 
 🎓 **Bachelor of Mechatronics, Bialystok University of Technology**
 - Thesis: Smart home design based on automatic security systems for residents and their property.
-- 
+  
 ## What am I focused on?
 
 🚀 **Performance Optimization**: As a performance optimization enthusiast, I always strive to ensure that my applications run fast and efficiently, providing users with seamless experiences.
