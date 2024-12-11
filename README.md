@@ -7,7 +7,7 @@ Hello! I'm Marcin Falkowski, an experienced React Native mobile app developer wi
 
 📱 **React Native Mobile Apps**: I have substantial experience in building modern, responsive, and smooth mobile applications using the React Native framework. My skills cover both user interface design and business logic.
 
-💻 **Web Development**: With my web development roots, I effectively leverage the latest technologies and trends in web projects. I possess skills in Typescript, React, and GraphQL.
+💻 **Web Development**: With my web development experience, I effectively leverage the latest technologies and trends in web projects. I possess skills in Typescript, React, and GraphQL.
 
 ## Education
 
