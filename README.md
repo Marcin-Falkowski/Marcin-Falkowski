@@ -46,7 +46,6 @@ _Bialystok University of Technology_
 
 ## 📨 **Let’s Connect**  
 
-Do you need help building or optimizing your next app?  
 Feel free to reach out to me – I’m happy to collaborate!  
 
 [📧 Email Me](mailto:falkowskimarcin98@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/marcin-falkowski-2a7364209) | [🌐 Portfolio](https://marcin-falkowski.netlify.app)  
