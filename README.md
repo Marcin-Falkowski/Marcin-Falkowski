@@ -1,27 +1,52 @@
+# Hi there! 👋  
 
-# Welcome to my profile! 👋
+**I’m Marcin Falkowski**, a skilled React Native developer with a strong background in **web and mobile development**. I focus on building reliable, scalable, and user-friendly applications, with a special knack for optimizing performance and delivering **high-quality white-label solutions**.  
 
-Hello! I'm Marcin Falkowski, an experienced React Native mobile app developer with a solid background in web development. My passion lies in creating innovative and efficient mobile applications that deliver unforgettable user experiences.
+---
 
-## What I do?
+## 💡 What I Do  
 
-📱 **React Native Mobile Apps**: I have substantial experience in building modern, responsive, and smooth mobile applications using the React Native framework. My skills cover both user interface design and business logic.
+### 📱 **Mobile Development**  
+- Building modern applications with **React Native**.  
+- Integrating **payment systems**, **push notifications**, and optimizing for **performance**.  
+- Experienced in libraries and tools like **Firebase**, **Expo**, and **Styled Components**.  
 
-💻 **Web Development**: With my web development experience, I effectively leverage the latest technologies and trends in web projects. I possess skills in Typescript, React, and GraphQL.
+### 💻 **Web Development**  
+- Creating responsive and efficient web apps with **React**, **TypeScript**, and **GraphQL**.  
+- Handling deployment pipelines with **Netlify**.  
 
-## Education
+### 🛠 **White-Label Expertise**  
+- Developing **customizable multi-brand solutions** in React Native.  
+- Managing **dynamic flavors** for mobile and web apps.  
 
-🎓 **Bachelor of Mechatronics, Bialystok University of Technology**
-- Thesis: Smart home design based on automatic security systems for residents and their property.
-  
-## What am I focused on?
+### 🚀 **CI/CD & Automation**  
+- Setting up seamless pipelines with **Bitrise** (mobile) and **Netlify** (web).  
+- Automating build processes for efficient scaling.  
 
-🚀 **Performance Optimization**: As a performance optimization enthusiast, I always strive to ensure that my applications run fast and efficiently, providing users with seamless experiences.
+---
 
-🛠️ **Modern Tools**: I keep track of the latest programming trends and continuously improve my skills. I often use the most popular tools and libraries. My Tech Stack - HTML, CSS, Typescript, React, React Native, NextJS, Tailwind, CSS, Styled Components / Styled Components - Native, Expo, GraphQL, Apollo, Graphql Zeus, Context, Zustand, Markdown, NodeJS, NestJS.
+## 🎓 **Education**  
 
-## How can I help you?
+**Bachelor of Mechatronics**  
+_Bialystok University of Technology_  
+- Thesis: Smart home design with automated security systems.  
 
-If you have any questions, ideas for collaboration, or just want to chat about programming, feel free to get in touch!
+---
 
-Thanks for visiting my profile!
+## 🌟 **What Sets Me Apart?**  
+
+| **Skill**                     | **Details**                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| 🚀 **Performance Optimization** | Ensuring apps run smoothly with fast APIs and responsive UI.                |
+| 🛠 **White-Label Solutions**    | Expertise in multi-flavor React Native apps for scalable businesses.        |
+| 🔧 **Modern Tooling**           | Proficient with Firebase, Expo, Apollo, and other state management libraries. |
+| 🔄 **CI/CD Mastery**            | Automating deployments with Bitrise and Netlify for smooth updates.         |
+
+---
+
+## 📨 **Let’s Connect**  
+
+Do you need help building or optimizing your next app?  
+Feel free to reach out to me – I’m happy to collaborate!  
+
+[📧 Email Me](mailto:falkowskimarcin98@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/marcin-falkowski-2a7364209) | [🌐 Portfolio](https://marcin-falkowski.netlify.app)  
