@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-**I’m Marcin Falkowski**, a skilled React Native developer with a strong background in **web and mobile development**. I focus on building reliable, scalable, and user-friendly applications, with a special knack for optimizing performance and delivering **high-quality white-label solutions**.  
+**I’m Marcin Falkowski**, a skilled React Native developer with a strong background in **web and mobile development**. I focus on building reliable, scalable, and user-friendly applications, with a special knack for optimizing performance and delivering **high-quality solutions**.  
 
 ---
 
