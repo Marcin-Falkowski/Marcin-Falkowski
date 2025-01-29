@@ -17,7 +17,7 @@
 
 ### 🛠 **White-Label Expertise**  
 - Developing **customizable multi-brand solutions** in React Native.  
-- Managing **dynamic flavors** for mobile and web apps.  
+- Managing **dynamic flavors** for mobile apps.  
 
 ### 🚀 **CI/CD & Automation**  
 - Setting up seamless pipelines with **Bitrise** (mobile) and **Netlify** (web).  
