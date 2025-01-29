@@ -15,10 +15,6 @@
 - Creating responsive and efficient web apps with **React**, **TypeScript**, and **GraphQL**.  
 - Handling deployment pipelines with **Netlify**.  
 
-### 🛠 **White-Label Expertise**  
-- Developing **customizable multi-brand solutions** in React Native.  
-- Managing **dynamic flavors** for mobile apps.  
-
 ### 🚀 **CI/CD & Automation**  
 - Setting up seamless pipelines with **Bitrise** (mobile) and **Netlify** (web).  
 - Automating build processes for efficient scaling.  
@@ -38,7 +34,6 @@ _Bialystok University of Technology_
 | **Skill**                     | **Details**                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
 | 🚀 **Performance Optimization** | Ensuring apps run smoothly with fast APIs and responsive UI.                |
-| 🛠 **White-Label Solutions**    | Expertise in multi-flavor React Native apps for scalable businesses.        |
 | 🔧 **Modern Tooling**           | Proficient with Firebase, Expo, Apollo, and other state management libraries. |
 | 🔄 **CI/CD Mastery**            | Automating deployments with Bitrise and Netlify for smooth updates.         |
 
