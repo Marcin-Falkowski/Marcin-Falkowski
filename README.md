@@ -9,7 +9,7 @@
 ### 📱 **Mobile Development**  
 - Building modern applications with **React Native**.  
 - Integrating **payment systems**, **push notifications**, and optimizing for **performance**.  
-- Experienced in libraries and tools like **Firebase**, **Expo**, and **Styled Components**.  
+- Experienced in libraries and tools like **Firebase**, **Expo**, and **Google API**.  
 
 ### 💻 **Web Development**  
 - Creating responsive and efficient web apps with **React**, **TypeScript**, and **GraphQL**.  
